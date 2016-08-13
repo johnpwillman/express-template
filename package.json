@@ -1,0 +1,28 @@
+{
+  "name": "express-template",
+  "version": "1.0.0",
+  "description": "Express template for quick dev",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnpwillman/express-template.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "John Willman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnpwillman/express-template/issues"
+  },
+  "homepage": "https://github.com/johnpwillman/express-template#readme"
+}
