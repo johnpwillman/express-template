@@ -3,11 +3,11 @@ Express Template
 
 ## Download locally to folder 'yourprojectname'
 ```
-git clone https://github.com/johnpwillman/express-template.git yourfoldername
+git clone https://github.com/johnpwillman/express-template.git yourprojectname
 ```
 ## Remove old git links
 ```
-cd yourfoldername
+cd yourprojectname
 rm -rf .git
 ```
 
